@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="radio_name">YOUR RADIO NAME</string>
+    <string name="radio_tagline">Your Tagline Here</string>
+
+    <!-- - - - - - - Radio Link Configuration - - - - - - - - - - - -->
+    <string name="splash_bottom_text">Copyright © 2021</string>
+
+    <!-- - - - - - - About &  social links- - - - - - - - -->
+    <string name="facebook_url">https://facebook.com/radio</string>
+    <string name="instagram_url">https://instagram.com/radio</string>
+    <string name="twitter_url">https://twitter.com/radio</string>
+    <string name="youtube_url">https://youtube.com/radio</string>
+
+    <string name="radio_station_website">https://example.com/</string>
+    <string name="radio_station_email">example@email.com</string>
+    <string name="radio_station_phone">+919797000000</string>
+    <string name="email_subject">YOUR SUBJECT HERE</string>
+    <string name="email_message">YOUR MESSAGE HERE</string>
+
+    <!-- - - - - - - Navigation Header - - - - - - - - - - - -->
+    <string name="nav_header_title">@string/radio_name</string>
+
+    <string name="group1">Radio App</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_settings">Settings</string>
+
+    <string name="group2">Contact us</string>
+    <string name="nav_item_privacy_policy">Privacy Policy</string>
+    <string name="nav_item_email">Email us</string>
+    <string name="nav_item_call">Call us</string>
+
+    <string name="group3">We are Social</string>
+    <string name="nav_item_facebook">Facebook</string>
+    <string name="nav_item_instagram">Instagram</string>
+    <string name="nav_item_twitter">Twitter</string>
+    <string name="nav_item_youtube">YouTube</string>
+
+    <string name="group4">Rate &amp; share</string>
+    <string name="nav_item_share">Share app</string>
+    <string name="nav_item_rate">Rate app</string>
+    <string name="nav_item_exit">Exit</string>
+
+
+</resources>

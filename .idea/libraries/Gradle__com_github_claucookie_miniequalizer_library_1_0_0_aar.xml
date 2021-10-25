@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.claucookie.miniequalizer:library:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/055a897260b904467c12a4cc1b0d0b0c/jetified-library-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/055a897260b904467c12a4cc1b0d0b0c/jetified-library-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/055a897260b904467c12a4cc1b0d0b0c/jetified-library-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.claucookie.miniequalizer/library/1.0.0/34fa4d21cffecdcfc39510bd25b11f1f5dbb15e5/library-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Your Radio App</string>
+    <string name="radio_description">Har Dil Ki Dhadkan</string>
+
+    <string name="play">Play</string>
+    <string name="stop">Stop</string>
+    <string name="no_internet">No Internet</string>
+    <string name="image_content_description">Content description</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="now_playing">Now Playing</string>
+
+    <!-- media viewer and radio-->
+    <string name="volume_low">Turn your volume up!</string>
+    <string name="notification_playing">Now Playing</string>
+    <string name="toggle_fullscreen">Toggle Fullscreen</string>
+    <string name="audio_notification">Background media playback</string>
+    <string name="error_retry">Failed to connect to stream&#8230;</string>
+    <string name="error_retry_later">Please try again in a few seconds&#8230;</string>
+    <string name="radio_playing_other">Already playing another station. Press play again to play this station instead.</string>
+    <string name="empty_textview">Error loading data</string>
+
+    <!--connection-->
+    <string name="dialog_connection_title">Servers unreachable</string>
+    <string name="dialog_connection_description">We can not connect with our APIs.\n\nPlease ensure that you have set up your API keys and parameters as documented!</string>
+    <string name="dialog_internet_title">No internet</string>
+    <string name="dialog_internet_description">You seem to have no internet connection, this app requires internet to load the content.</string>
+    <string name="no_network">Failed to Connect Network!</string>
+    <string name="ok">OK</string>
+
+    <!--exit dialog-->
+    <string name="message">What do you want to do?</string>
+    <string name="quit">Quit</string>
+    <string name="minimize">Minimize</string>
+    <string name="cancel">Cancel</string>
+
+
+</resources>

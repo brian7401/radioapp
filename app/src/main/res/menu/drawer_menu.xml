@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/group1">
+        <menu>
+            <item android:id="@+id/nav_home"
+                android:icon="@drawable/ic_home"
+                android:title="@string/nav_item_home" />
+        </menu>
+    </item>
+
+    <item android:title="@string/group2">
+        <menu>
+            <item android:id="@+id/privacy_policy"
+                android:icon="@drawable/ic_info"
+                android:title="@string/nav_item_privacy_policy" />
+            <item android:id="@+id/email"
+                android:icon="@drawable/ic_email"
+                android:title="@string/nav_item_email" />
+            <item android:id="@+id/call"
+                android:icon="@drawable/ic_call"
+                android:title="@string/nav_item_call" />
+        </menu>
+    </item>
+
+    <item android:title="@string/group3">
+        <menu>
+            <item android:id="@+id/facebook"
+                android:icon="@drawable/ic_facebook"
+                android:title="@string/nav_item_facebook" />
+            <item android:id="@+id/instagram"
+                android:icon="@drawable/ic_instagram"
+                android:title="@string/nav_item_instagram" />
+            <item android:id="@+id/twitter"
+                android:icon="@drawable/ic_twitter"
+                android:title="@string/nav_item_twitter" />
+            <item android:id="@+id/youtube"
+                android:icon="@drawable/ic_youtube"
+                android:title="@string/nav_item_youtube" />
+        </menu>
+    </item>
+
+    <item android:title="@string/group4">
+        <menu>
+            <item android:id="@+id/share"
+                android:icon="@drawable/ic_share"
+                android:title="@string/nav_item_share" />
+            <item android:id="@+id/rate"
+                android:icon="@drawable/ic_rate"
+                android:title="@string/nav_item_rate" />
+            <item android:id="@+id/exit"
+                android:icon="@drawable/ic_exit"
+                android:title="@string/nav_item_exit" />
+        </menu>
+    </item>
+</menu>
